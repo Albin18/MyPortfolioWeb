@@ -1,7 +1,6 @@
 *{
   background-color: #323946;
 }
-
 .navbar-brand{
   top: 0;
   left: 0;
@@ -26,6 +25,6 @@
   font-size: 1.2rem;
 }
 .navbar-nav a:hover {
-  color: brown;
+  color: rgb(243, 247, 13);
 }
 
