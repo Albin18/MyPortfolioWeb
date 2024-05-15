@@ -10,17 +10,13 @@
   justify-content: space-between;
   align-items: center;
   z-index: 100;
-  font-size: 2.0rem;
+  font-size: 2.2rem;
   cursor: default;
   font-weight: 600;
 }
 
-.navbar-nav {
-  margin-left: 15%;
-}
-
 .navbar-nav a{
-  margin-left: 3rem;
+  margin-left: 5rem;
   color: white;
   font-size: 1.2rem;
 }
