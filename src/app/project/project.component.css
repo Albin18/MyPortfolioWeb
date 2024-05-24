@@ -49,12 +49,12 @@ transform: scale(1.1);
   background: linear-gradient(rgba(0,0,0, .1), #0ef);
   display: flex;
   justify-content: center;
-align-items: center;
-flex-direction: column;
-text-align: center;
-padding: 0 3rem;
-transform: translateY(100%);
-transition: .5s ease;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 0 3rem;
+  transform: translateY(100%);
+  transition: .5s ease;
 }
 .card:hover .card-body{
   transform: translateY(0);
