@@ -50,7 +50,7 @@ margin-bottom: 10rem;
 }
 .home-img img{
   border-radius: 50%;
-    width:75%;
+    width:60%;
     box-shadow: 0 0 1rem #0ef;
     animation: floatImage 4s ease-in-out infinite;
 }
